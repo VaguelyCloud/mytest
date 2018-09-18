@@ -1,0 +1,2 @@
+# generatorSqlmapCustom
+generatorSqlmapCustom
